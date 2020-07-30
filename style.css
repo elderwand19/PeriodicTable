@@ -1,0 +1,103 @@
+
+*{
+  font-family: Georgia, 'Times New Roman', Times, serif
+  font-weight= 5000;
+}
+
+header{
+  font-family: 'Playfair Display', serif;
+  font-size: 4vw ;
+  text-align: center;
+  background-color: rgb(135, 185, 214);
+  margin: 0;
+}
+.headingtwo{
+  text-align: center;
+  font-size: 1.5vw;
+  background-color: azure;
+  padding: 0%;
+  margin: 0;
+  
+}
+
+ body{
+  color: blue;
+  background-color: white;
+  box-sizing: border-box;
+} 
+
+.element-desc{
+  justify-content: center;
+  font-size:1vw;
+  margin-top: -1em;
+  font-style: normal;
+}
+
+td{
+  color: black;
+  text-align: center;
+  border: 1px solid rgba(245, 245, 245, 0.61);
+}
+
+.title-2{
+  border-style: none;
+  color: green;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-left: 20px;
+}
+
+.space{
+  border-style: none;
+}
+
+.element-box1{
+ background-color: #9dc87d;
+}
+
+.element-box2{
+  background-color: #d1202d;
+}
+
+.element-box4{
+  background-color: #9abfe5;
+}
+.element-box5{
+  background-color: #fccf0c;
+}
+.element-box6{
+  background-color: #b896c6;
+}
+.element-box7{
+  background-color: #1f97d4;
+}
+.element-box8{
+  background-color: #77c8aa ;
+}
+.element-box9{
+  background-color: #c4c4c4;
+}
+.element-box10{
+  background-color:#f7b2ca;
+}
+.element-color1{
+  color: white;
+}
+
+.element-box3{
+  background-color: #f7a81e;
+}
+#legend{
+ font-size: 2vw;
+ color: #fccf0c; 
+ text-shadow: 2px 0 1px black;
+ font-style: italic;
+ margin-left: -360px;
+}
+
+.legendbox{
+  font-size: 1vw;
+  
+}
+#group{
+  color: blue;
+}
